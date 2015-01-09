@@ -1,5 +1,5 @@
 function() {
-	alert(3);
+	alert(2);
 	console.log('haha');
 	
 }
